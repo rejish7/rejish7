@@ -4,8 +4,6 @@
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Python+%26+PHP+Enthusiast;Backend+Systems+Architect;From+Nepal+%F0%9F%87%B3%F0%9F%87%B5)
 
-![Profile Views](https://komarev.com/ghpvc/?username=rejish7&color=blue&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/rejish7?label=Followers&style=social)](https://github.com/rejish7?tab=followers)
 
 </div>
 
