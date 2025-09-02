@@ -88,26 +88,6 @@ developer.say_hi()
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![Rejish's GitHub stats](https://github-readme-stats.vercel.app/api?username=rejish7&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rejish7&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
-
-## 🔥 Contribution Activity
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rejish7&theme=radical&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rejish7&theme=redical&hide_border=true)
-
-</div>
-
 ## 🌟 Featured Projects & Contributions
 
 <!-- Replace with your actual projects -->
